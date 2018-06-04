@@ -1,0 +1,21 @@
+.head{
+	background-color: pink;
+	padding: 10px;
+	border-color: black;
+}
+
+.isiform{
+	background-color: white;
+	padding: 10px;
+	}
+
+.subform{
+	border: solid;
+	border-color: grey;
+	padding: 5px;
+}
+
+.mode{
+	background-color: red;
+	color: white
+}
